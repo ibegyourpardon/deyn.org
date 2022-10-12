@@ -1,9 +1,10 @@
 //
 // Date: 2022-10-12 09:47:22
 // LastEditors: ibegyourpardon
-// LastEditTime: 2022-10-12 14:51:49
+// LastEditTime: 2022-10-12 15:39:54
 // FilePath: /deyn.org/blog.config.js
 //
+
 const BLOG = {
   title: 'Deyn.org',
   author: 'feiandxs',
